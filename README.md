@@ -1,6 +1,8 @@
-# umeentzako-ipuin-txorta
+# Umeentzako ipuin-txorta
 
-Ikastolan genuen ipuin-txorta hau bizkaieraz, batzuk faltan daude. Hemendik lortu dodaz: [!https://www.euskerazaleak.biz](https://www.euskerazaleak.biz)
+Ikastolan genuen ipuin-txorta hau bizkaieraz, batzuk faltan daude.
+
+Hemendik lortu dodaz: [https://www.euskerazaleak.biz](https://www.euskerazaleak.biz)
 
 01. MARI ANBOTON ETA GORBEAN, Juan Manuel Etxebarria
 02. BAKOITZARI BEREA, Ramón Etxebarria
