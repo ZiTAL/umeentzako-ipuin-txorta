@@ -34,3 +34,13 @@ Hemendik lortu dodaz: [https://www.euskerazaleak.biz](https://www.euskerazaleak.
 28. PRAKAGORRIAK, Juan Manuel Etxebarria
 29. GORBEAKO TXORI GAIZTOAK, Juan Manuel Etxebarria
 30. GAUEKO ARIMAK, Juan Manuel Etxebarria
+
+Faltan:
+
+05. FRAKOTE IKERLARI, Ana Arruza
+06. MARI ANBOTOKOREN IBILALDIAK, Josu Penades Bilbao
+07. KUKUMETS, Juantxu Rekalde
+14. IBANENTZAKO ARGI APUR BAT, Edurne Urkiola
+17. ONDO IKASITAKOAREN AGERBIDEA, Ramón Etxebarria
+21. ARGINTXO ETA ENEKO KUKUAMETSEN, Juantxu Rekalde eta M.ª Luisa Pujana
+22. PERU TA MARIXA, Sabin Barruetabeña
